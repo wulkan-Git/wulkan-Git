@@ -15,9 +15,9 @@
 ![SQL](https://img.shields.io/badge/SQL-CC2927?logo=microsoft-sql-server&logoColor=white)
 
 ### 🚀 Ключевые проекты:
-[![ProjectHub](https://github-readme-stats.vercel.app/api/pin/?username=wulkan-Git&repo=ProjectHub&theme=dark)](https://github.com/wulkan-Git/ProjectHub)
-[![KinoHub](https://github-readme-stats.vercel.app/api/pin/?username=wulkan-Git&repo=KinoHub&theme=dark)](https://github.com/wulkan-Git/KinoHub)
-[![AutoHotkey Scripts](https://github-readme-stats.vercel.app/api/pin/?username=wulkan-Git&repo=ahk-scripts&theme=dark)](https://github.com/wulkan-Git/ahk-scripts)
+[![OwnerMenu](https://github-readme-stats.vercel.app/api/pin/?username=wulkan-Git&repo=OwnerMenu&theme=dark)](https://github.com/wulkan-Git/OwnerMenu)
+[![YtDlpGUI](https://github-readme-stats.vercel.app/api/pin/?username=wulkan-Git&repo=YtDlpGUI&theme=dark)](https://github.com/wulkan-Git/YtDlpGUI)
+[![Clear](https://github-readme-stats.vercel.app/api/pin/?username=wulkan-Git&repo=Clear&theme=dark)](https://github.com/wulkan-Git/Clear)
 
 ### 📫 Контакты:
 [![Email](https://img.shields.io/badge/Email-wulkan@ws--soft.ru-D14836?logo=gmail&logoColor=white)](mailto:wulkan@ws-soft.ru)
