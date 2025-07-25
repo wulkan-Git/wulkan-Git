@@ -18,6 +18,7 @@
 [![OwnerMenu](https://github-readme-stats.vercel.app/api/pin/?username=wulkan-Git&repo=OwnerMenu&theme=dark)](https://github.com/wulkan-Git/OwnerMenu)
 [![YtDlpGUI](https://github-readme-stats.vercel.app/api/pin/?username=wulkan-Git&repo=YtDlpGUI&theme=dark)](https://github.com/wulkan-Git/YtDlpGUI)
 [![Clear](https://github-readme-stats.vercel.app/api/pin/?username=wulkan-Git&repo=Clear&theme=dark)](https://github.com/wulkan-Git/Clear)
+[![CLIKS](https://github-readme-stats.vercel.app/api/pin/?username=wulkan-Git&repo=CLIKS&theme=dark)](https://github.com/wulkan-Git/CLIKS)
 
 ### 📫 Контакты:
 [![Email](https://img.shields.io/badge/Email-wulkan@ws--soft.ru-D14836?logo=gmail&logoColor=white)](mailto:wulkan@ws-soft.ru)
