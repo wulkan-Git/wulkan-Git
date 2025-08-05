@@ -1,42 +1,63 @@
-<h1 align="center">👋 Привет! Я Wulkan</h1>
-<h3 align="center">C# Developer | Веб-сервисы | AutoHotkey Expert</h3>
+# Привет, я Wulkan! 🌋
+
+> **«Код, который извергается — меняет мир.»** 🔥  
+Я начинающий разработчик, который строит своё будущее строка за строкой.  
+Мой GitHub — это лаборатория экспериментов, обучения и роста.
+
+---
+
+## 🚀 Что я строю
+Я не просто учусь программировать — я **создаю инструменты**, которые решают реальные задачи.  
+От автоматизации рутины до мини-приложений, которые работают как часы.
+
+---
+
+## 🛠️ Технологии и стек
+Я начинаю с основ, но стремлюсь к Fullstack-мастерству:
+
+| Категория     | Технологии |
+|--------------|-----------|
+| 🐍 Бэкенд     | Python, Flask, Node.js |
+| 🌐 Фронтенд   | HTML, CSS, JavaScript |
+| 🛢️ Базы данных | SQLite, JSON |
+| 🔧 Инструменты | Git, CLI, VS Code, GitHub Actions |
+| 🤖 Интересы    | Автоматизация, боты, CLI-приложения, AI |
+
+---
+
+
+> Все проекты — с открытым кодом, документацией и примерами.
+
+
+## 📬 Связь со мной
+Хочешь пообщаться, предложить идею или просто сказать "привет"?  
+Я всегда открыт к диалогу!
+
+| Платформа | Ссылка |
+|----------|-------|
+
+
+| 📧 Email    | wulkan@ws-soft.ru |
+| 🌐 Профиль  | [github.com/wulkan-Git](https://github.com/wulkan-Git) |
+
+---
+
+## 📊 Моя активность на GitHub
 
 <div align="center">
-  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wulkan-Git&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)](https://github.com/wulkan-Git)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wulkan-Git&layout=compact&theme=dark&hide_border=true)](https://github.com/wulkan-Git)
-
-### 💻 Технологический стек:
-![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
-![AutoHotkey](https://img.shields.io/badge/AutoHotkey-334455?logo=autohotkey&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?logo=dotnet&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?logo=microsoft-sql-server&logoColor=white)
-
-### 🚀 Ключевые проекты:
-[![OwnerMenu](https://github-readme-stats.vercel.app/api/pin/?username=wulkan-Git&repo=OwnerMenu&theme=dark)](https://github.com/wulkan-Git/OwnerMenu)
-[![YtDlpGUI](https://github-readme-stats.vercel.app/api/pin/?username=wulkan-Git&repo=YtDlpGUI&theme=dark)](https://github.com/wulkan-Git/YtDlpGUI)
-[![Clear](https://github-readme-stats.vercel.app/api/pin/?username=wulkan-Git&repo=Clear&theme=dark)](https://github.com/wulkan-Git/Clear)
-[![CLIKS](https://github-readme-stats.vercel.app/api/pin/?username=wulkan-Git&repo=CLIKS&theme=dark)](https://github.com/wulkan-Git/CLIKS)
-[![Ttimer](https://github-readme-stats.vercel.app/api/pin/?username=wulkan-Git&repo=Ttimer&theme=dark)](https://github.com/wulkan-Git/Ttimer)
-[![murlykayushchiy-kot](https://github-readme-stats.vercel.app/api/pin/?username=wulkan-Git&repo=murlykayushchiy-kot&theme=dark)](https://github.com/wulkan-Git/murlykayushchiy-kot)
-### 📫 Контакты:
-[![Email](https://img.shields.io/badge/Email-wulkan@ws--soft.ru-D14836?logo=gmail&logoColor=white)](mailto:wulkan@ws-soft.ru)
-[![Website](https://img.shields.io/badge/Website-ws--soft.ru-4285F4?logo=google-chrome&logoColor=white)](https://ws-soft.ru/wulkan/)
-[![VK](https://img.shields.io/badge/VKontakte-0077FF?logo=vk&logoColor=white)](https://vk.com/w_u_l_k_a_n)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram)](https://t.me/w_u_l_k_a_n)
-[![Boosty](https://img.shields.io/badge/Boosty-FF5C5C?logo=patreon&logoColor=white)](https://boosty.to/wulkan)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=wulkan-Git&show_icons=true&theme=vision-friendly-dark&border_color=FF6B6B&bg_color=0D1117&text_color=FFA500" alt="Статистика" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wulkan-Git&layout=compact&theme=vision-friendly-dark&bg_color=0D1117&text_color=FFA500&border_color=FF6B6B" alt="Любимые языки" />
 </div>
 
 ---
 
-### 🔧 Мои инструменты:
-```csharp
-// Пример кода на C#
-public class AutomationTools {
-    public void RunAHKScript(string scriptPath) {
-        Process.Start("AutoHotkey.exe", scriptPath);
-    }
-}
+## 🌋 Почему "Wulkan"?
+> Потому что я верю:  
+> **Извержение начинается с одной искры.**  
+> Мой код — это лава, которая формирует новую землю.
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=wulkan-Git&label=Просмотры+профиля&color=red&style=flat" alt="wulkan-Git" />
+</div>
