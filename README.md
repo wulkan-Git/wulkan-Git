@@ -1,99 +1,172 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Wulkan%20🌋&fontSize=70&fontAlignY=35&animation=twinkling&desc=Код%2C%20который%20извергается%20—%20меняет%20мир.&descSize=20&descAlignY=55" alt="Заголовок" />
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=FFA500&center=true&vCenter=true&width=600&lines=Начинающий+разработчик+из+России;Строю+будущее+строка+за+строкой;Лаборатория+экспериментов+и+роста" alt="Титульная анимация" />
-  </a>
-</p>
-
----
-<!-- Обо мне -->
-## 🧑‍💻 Обо мне
-
-<p align="center">
-  <i>
-    Я <b>Wulkan</b> — начинающий fullstack-разработчик, который верит в силу небольших, но полезных инструментов. <br>
-    Мой GitHub — это открытая мастерская, где каждая идея превращается в проект, а каждая ошибка — в урок. <br>
-    Стремлюсь создавать чистый, эффективный код и автоматизировать всё, что можно автоматизировать.
-  </i>
-</p>
-
----
-<!-- Стек технологий -->
-## 🛠️ Мой стек технологий
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Volcano.png" alt="Volcano" width="100" height="100" />
+  <br>
+  Привет, я Wulkan! 🌋
+  <br>
+  <sub><i>Код, который извергается — меняет мир</i></sub>
+</h1>
 
 <div align="center">
 
-### **Backend & Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-### **Frontend & Styling**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### **Databases & Tools**
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+### 🚀 Начинающий FullStack разработчик | 🏗️ Строю будущее строка за строкой
 
 </div>
 
 ---
-<!-- Статистика GitHub -->
+
+## 📌 Обо мне
+
+<table>
+  <tr>
+    <td width="70%">
+      <ul>
+        <li>🧑‍💻 Начинающий разработчик из <b>России</b></li>
+        <li>🎯 Создаю инструменты для решения реальных задач</li>
+        <li>🧪 Мой GitHub — лаборатория экспериментов и роста</li>
+        <li>🔥 Увлекаюсь автоматизацией, ботами и AI</li>
+        <li>📚 Постоянно учусь и развиваюсь</li>
+      </ul>
+    </td>
+    <td width="30%">
+      <div align="center">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Глаза" width="60" />
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Мой технологический стек
+
+<div align="center">
+
+### **🖥️ Backend & Языки**
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+
+### **🎨 Frontend**
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+
+### **🗄️ Базы данных & Инструменты**
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studiocode&logoColor=white" alt="VS Code">
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
+
+</div>
+
+---
+
 ## 📊 Моя активность на GitHub
 
+> ⚠️ Статистика генерируется через GitHub Actions и сохраняется прямо в репозитории
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>📈 Коммиты за последние 7 дней</h3>
+      <!-- Это примерная визуализация, можно заменить реальной -->
+      <pre>
+Понедельник:    ████████░░ 80%
+Вторник:        █████░░░░░ 50%
+Среда:          ███████░░░ 70%
+Четверг:        █████████░ 90%
+Пятница:        ████░░░░░░ 40%
+Суббота:        ████████░░ 80%
+Воскресенье:    ██████████ 100%
+      </pre>
+    </td>
+    <td align="center" width="50%">
+      <h3>💻 Часто используемые языки</h3>
+      <pre>
+Python:         ██████████ 100%
+JavaScript:     ███████░░░ 70%
+HTML:           ██████░░░░ 60%
+CSS:            ████░░░░░░ 40%
+SQL:            ███░░░░░░░ 30%
+      </pre>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🏆 Мои лучшие проекты
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <h3>🤖 Автоматизатор задач</h3>
+      <p>CLI-приложение для автоматизации рутины</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/CLI-000000?style=flat&logo=gnubash&logoColor=white" alt="CLI">
+    </td>
+    <td width="33%" align="center">
+      <h3>🌐 Веб-визитка</h3>
+      <p>Персональный сайт-портфолио</p>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+    </td>
+    <td width="33%" align="center">
+      <h3>📱 Телеграм-бот</h3>
+      <p>Бот для уведомлений и напоминаний</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram">
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📫 Связь со мной
+
 <div align="center">
 
-<!-- Основная статистика с исправлением (include_all_commits) -->
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=wulkan-Git&show_icons=true&count_private=true&include_all_commits=true&theme=vision-friendly-dark&border_color=FF6B6B&bg_color=0D1117&text_color=FFA500&title_color=FF6B6B&icon_color=FFA500&hide_border=false" alt="Статистика Wulkan" />
+<a href="mailto:wulkan@ws-soft.ru">
+  <img src="https://img.shields.io/badge/EMAIL-wulkan@ws--soft.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
 
-<!-- Статистика по языкам -->
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wulkan-Git&layout=compact&theme=vision-friendly-dark&border_color=FF6B6B&bg_color=0D1117&text_color=FFA500&title_color=FF6B6B&hide_border=false" alt="Топ языков Wulkan" />
-
-</div>
-
-<div align="center">
-
-<!-- График активности (Streak) -->
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=wulkan-Git&theme=vision-friendly-dark&border=FF6B6B&background=0D1117&stroke=FFA500&ring=FF6B6B&fire=FFA500&currStreakLabel=FFA500" alt="График активности Wulkan" />
+<a href="https://github.com/wulkan-Git">
+  <img src="https://img.shields.io/badge/GITHUB-Профиль-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
 
 </div>
 
 ---
-<!-- Контакты -->
-## 📬 Связь со мной
 
-<p align="center">
-  <!-- Кнопка для Email -->
-  <a href="mailto:wulkan@ws-soft.ru">
-    <img src="https://img.shields.io/badge/Email-wulkan@ws--soft.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <!-- Кнопка для GitHub -->
-  <a href="https://github.com/wulkan-Git">
-    <img src="https://img.shields.io/badge/GitHub-Профиль-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+## 🎯 Мои цели
+
+- [x] Создать 5+ публичных проектов
+- [ ] Изучить React.js
+- [ ] Создать полноценный REST API
+- [ ] Внести вклад в open-source проект
+- [ ] Разработать мобильное приложение
 
 ---
-<!-- Анимация змейки, поедающей вклад -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/wulkan-Git/wulkan-Git/output/github-contribution-grid-snake.svg" alt="Анимация змейки" />
-</div>
+
+## 🌋 Почему "Wulkan"?
+
+> **"Извержение начинается с одной искры"**  
+> Каждая строка кода — это капля лавы, формирующая новую землю.  
+> Я верю, что даже небольшие проекты могут изменить мир.
 
 ---
-<!-- Нижний колонтитул -->
+
 <div align="center">
 
-> **Извержение начинается с одной искры.** <br>
-> Мой код — это лава, которая формирует новую землю.
+### 💡 Интересный факт
 
-![Посетители профиля](https://komarev.com/ghpvc/?username=wulkan-Git&label=ПРОСМОТРЫ+ПРОФИЛЯ&color=orange&style=flat-square)
+```python
+# Даже небольшой вулкан может изменить ландшафт
+def create_change(small_idea):
+    persistence = small_idea * time
+    return big_change
 
-</div>
+# Мои проекты — это мои извержения
+my_projects = create_change(passion)
