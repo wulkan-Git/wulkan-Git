@@ -1,16 +1,10 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Volcano.png" alt="Volcano" width="100" height="100" />
-  <br>
-  Привет, я Wulkan! 🌋
-  <br>
-  <sub><i>Код, который извергается — меняет мир</i></sub>
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Wulkan%20🌋&fontSize=70&fontAlignY=35&animation=twinkling&desc=Код%2C%20который%20извергается%20—%20меняет%20мир.&descSize=20&descAlignY=55" alt="Заголовок" />
+</p>
 
-<div align="center">
-
-### 🚀 Начинающий FullStack разработчик | 🏗️ Строю будущее строка за строкой
-
-</div>
+<h3 align="center">
+  🚀 Начинающий FullStack разработчик | 🏗️ Строю будущее строка за строкой
+</h3>
 
 ---
 
@@ -70,7 +64,6 @@
   <tr>
     <td align="center" width="50%">
       <h3>📈 Коммиты за последние 7 дней</h3>
-      <!-- Это примерная визуализация, можно заменить реальной -->
       <pre>
 Понедельник:    ████████░░ 80%
 Вторник:        █████░░░░░ 50%
