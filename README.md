@@ -109,7 +109,7 @@ SQL:            ███░░░░░░░ 30%
     <td width="33%" align="center">
       <h3>📱 Телеграм-бот</h3>
       <p>Бот для уведомлений и напоминаний</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <p>Бот для Управления  компьютером через Telegram</p>
       <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram">
     </td>
   </tr>
